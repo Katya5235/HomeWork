@@ -11,7 +11,9 @@ while n > 0:
     n = n // 10
     sum_of_digits = sum_of_digits + digit 
 
+print (' Сумма : ')
 print (sum_of_digits) 
+
 
 
 
